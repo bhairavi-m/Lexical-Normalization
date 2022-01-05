@@ -16,4 +16,6 @@ The first command will generate the prediction text files that will be stored in
 
 Since our code contains an implementation of a code base from the `Adapting Sequence to Sequence models for Text Normalization in Social Media` research paper, we use the pretrained model. To be able to run those models and generate files from the start refer to the `PRETRAINED.md` file.
 
+A detailed report can be viewed [here](https://drive.google.com/file/d/1mgeCNgofnTRcDA8IjJxOsDkd0R_Dxgwa/view?usp=sharing).
+
 The project is implemented as a solution for the challenge held by the [7th Workshop on Noisy User-Generated Text (W-NUT) with EMNLP 2021](https://noisy-text.github.io/2021/multi-lexnorm.html)
