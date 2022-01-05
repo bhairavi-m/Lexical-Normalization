@@ -5,10 +5,10 @@ To get access to the results that our scripts generate, we have made a structure
 Once you are inside `code/scripts` folder on the command line, you can execute the following commands:
 
 ```
-$ `python baselines-with-extensions.py`
+$ python baselines-with-extensions.py
 ```
 ```
-$ `python score.py`
+$ python score.py
 ```
 
 
