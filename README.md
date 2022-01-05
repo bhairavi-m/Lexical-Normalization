@@ -1,10 +1,10 @@
-# Running the Code
+# Lexical Normalization
 
 To get access to the results that our scripts generate, we have made a structure that allows you to run only two lines of code:
 
 Once you are inside `code/scripts` folder on the command line, you can execute the following commands:
 
-`python baselines-with-extensions.py`
+$ `python baselines-with-extensions.py`
 
 `python score.py`
 
