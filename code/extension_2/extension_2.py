@@ -20,7 +20,7 @@ def keyboardError(word):
 def misplaceApostrophe(word):
     idx = word.find("'")
 
-    if idx != -1: 
+    if idx != -1:
       # you're -> youre'
       # return word[:idx] + word[idx+1:] + word[idx]
 
